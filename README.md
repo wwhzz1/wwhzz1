@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on learning
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 📫 How to reach me: https://github.com/wwhzz1
-- ⚡ Hobbies: playing games and ball
+- ⚡ Hobbies: playing games and ball,watching ball games and coding
 
